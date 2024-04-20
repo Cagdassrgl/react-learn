@@ -1,0 +1,9 @@
+.Course {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 16px;
+    border: 1px solid black;
+    border-radius: 16px;
+    margin: 16px;
+}
