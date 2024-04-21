@@ -1,0 +1,11 @@
+.SearchHeader {
+    border: 2px solid lightgray;
+    border-radius: 8px;
+    margin: 8px;
+}
+
+.SearchHeader form {
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+}
